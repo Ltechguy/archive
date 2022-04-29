@@ -5,7 +5,7 @@ function validation() {
     var textboxtext = document.getElementById('txtbox').value;
   
     if (textboxtext == 'bbc') {
-        window.open('https://JEMSHS.github.io/p-e-s-d-hangout-math/mathhangout.html');
+        window.open('central.html');
   }
 
       if (textboxtext == 'keyyes') {
