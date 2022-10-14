@@ -4,12 +4,12 @@ function validation() {
     var headertext = document.getElementById('logo');
     var textboxtext = document.getElementById('txtbox').value;
   
-    if (textboxtext == 'bbc') {
+    if (textboxtext == 'dog') {
         window.open('central.html');
   }
 
-      if (textboxtext == 'keyyes') {
-      window.open('https://p-e-s-d.github.io/pesd-hangout-math/mathhangout.html');
+      if (textboxtext == 'bbc') {
+      window.open('https://jemshs.github.io/p-e-s-d-hangout-math/prem.html');
   }
 
       if (textboxtext == "github") {
