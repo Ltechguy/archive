@@ -4,11 +4,11 @@ function validation() {
     var headertext = document.getElementById('logo');
     var textboxtext = document.getElementById('txtbox').value;
   
-    if (textboxtext == 'dog') {
-        window.open('central.html');
+    if (textboxtext == 'bbcontop') {
+        window.open('https://jemshs.github.io/p-e-s-d-hangout-math/mathhangout.html');
   }
 
-      if (textboxtext == 'bbc') {
+      if (textboxtext == 'sefsffesfesfsf') {
       window.open('https://jemshs.github.io/p-e-s-d-hangout-math/prem.html');
   }
 
