@@ -4,28 +4,32 @@ function validation() {
     var headertext = document.getElementById('logo');
     var textboxtext = document.getElementById('txtbox').value;
   
-    if (textboxtext == 'bbcontop') {
-        window.open('https://jemshs.github.io/p-e-s-d-hangout-math/mathhangout.html');
+    if (textboxtext == 'oracio') {
+      window.open('https://pesdinfo.github.io/p-e-s-d-hangout-math/oracio.html');
+  }
+    
+     if (textboxtext == 'cam') {
+      window.open('https://pesdinfo.github.io/p-e-s-d-hangout-math/cam.html');
   }
 
-      if (textboxtext == 'sefsffesfesfsf') {
-      window.open('https://jemshs.github.io/p-e-s-d-hangout-math/prem.html');
+      if (textboxtext == 'bob') {
+      window.open('https://pesdinfo.github.io/p-e-s-d-hangout-math/bob.html');
   }
 
-      if (textboxtext == "github") {
-      window.open('https://github.com/cens6r', '_blank')  
+      if (textboxtext == "josh") {
+      window.open('https://pesdinfo.github.io/p-e-s-d-hangout-math/josh.html')  
   }
   
-      if (textboxtext == 'lastfm') {
-      window.open('https://last.fm/user/void-star', '_blank');
+      if (textboxtext == 'marcus') {
+      window.open('https://pesdinfo.github.io/p-e-s-d-hangout-math/marcus.html');
   }
   
-      if (textboxtext == 'spotify') {
-      window.open('https://open.spotify.com/user/utqeto9r0v0qsgducht24jl3f', '_blank');
+      if (textboxtext == 'max') {
+      window.open('https://pesdinfo.github.io/p-e-s-d-hangout-math/max.html');
   }
 
-      if (textboxtext == 'discord') {
-          window.open('discord://https://discord.com/users/581470718387159040', '_blank');
+      if (textboxtext == 'tim') {
+          window.open('https://pesdinfo.github.io/p-e-s-d-hangout-math/tim.html');
       }
 
   }
